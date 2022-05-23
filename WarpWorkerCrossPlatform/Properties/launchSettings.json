@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "WarpWorkerCrossPlatform": {
-      "commandName": "Project",
-      "commandLineArgs": "Ping"
-    }
-  }
-}
